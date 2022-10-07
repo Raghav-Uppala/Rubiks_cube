@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "DocDock Documentation"
+title = "Learn to Cube"
 theme ="docdock"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
@@ -29,7 +29,7 @@ enableMissingTranslationPlaceholders = false
 unsafe = true
 
 [params]
-editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
+editURL = ""
 showVisitedLinks = true # default is false
 themeStyle = "flex" # "original" or "flex" # default "flex"
 themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)

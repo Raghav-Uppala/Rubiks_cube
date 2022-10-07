@@ -1,8 +1,7 @@
 +++
 type="page"
-title="Beginner Method"
+title="Pyraminx Beginner Method"
 alwaysopen = false
-head="<label>Pyraminx</label>"
 weight = 8
 +++
 

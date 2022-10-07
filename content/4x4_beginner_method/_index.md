@@ -1,8 +1,7 @@
 +++
 type="page"
-title="Beginner Method"
+title="4x4 Beginner Method"
 alwaysopen = false
-head="<label>4x4 Rubik's Cube</label>"
 weight = 6
 +++
 

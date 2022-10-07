@@ -1,8 +1,7 @@
 +++
 type="page"
-title="Beginner Method"
+title="Megamix Beginner Method"
 alwaysopen = false
-head="<label>Megamix</label>"
 weight = 8
 +++
 

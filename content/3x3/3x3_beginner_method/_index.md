@@ -1,7 +1,6 @@
 +++
 type="page"
 title="Beginner Method"
-head="<label>3x3 Rubik's Cube</label>"
 weight = 1
 alwaysopen = false
 +++

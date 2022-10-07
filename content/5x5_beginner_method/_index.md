@@ -1,8 +1,7 @@
 +++
 type="page"
-title="Beginner Method"
+title="5x5 Beginner Method"
 alwaysopen = false
-head="<label>5x5 Rubik's Cube</label>"
 weight = 7
 +++
 
