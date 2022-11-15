@@ -5,4 +5,13 @@ weight = 1
 alwaysopen = false
 +++
 
-This is the index page for the 3x3 beginner method
+The beginer method is a good starting point in learning to solve the rubik's cube. Using this method you can get close to sub 1-minute times. Depending on your goal, this can be enough.
+
+The begginer method contains the following steps: 
+1. White side
+2. Second layer
+3. Yellow cross
+4. Permutation of Yellow Corners
+5. Orientation of Yellow Corners
+
+The last two steps, are present in the beginner and advance(not covered in this website) CFOP methods. But the processes are different.
