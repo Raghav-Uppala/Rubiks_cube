@@ -19,7 +19,7 @@ The following are 3 cases that the yellow side could look like in the first stag
 
 |Case 1|Case 2|Case 3|
 |:-|:-|:-|
-|![](/images/bgm/bgm_OLL_stage_1_case_1.png)|![](/images/bgm/bgm_OLL_stage_1_case_2.png)|![](/images/bgm/bgm_OLL_stage_1_case_3.png)|
+|![](/images/bcfop/bcfop_OLL_stage_1_case_1.png)|![](/images/bcfop/bcfop_OLL_stage_1_case_2.png)|![](/images/bcfop/bcfop_OLL_stage_1_case_3.png)|
 |Apply the algorithm to get Case 2.|Rotate to the above orientation. Apply the algorithm but instead of F and F' do f and f'.|You're done! Move on to stage 2.|
 
 ## Corners
@@ -27,10 +27,10 @@ There are 7 algorithms to memorize for 2-look OLL.  Orient the top layer(using U
 
 |Case Name|Case|Algorithm|
 |:-:|:-:|:-:|
-|Antisune|![](/images/bgm/bgm_OLL_stage_2_antisune.png)|R U2 R' U' R U' R'|
-|H|![](/images/bgm/bgm_OLL_stage_2_H.png)|R U R' U R U' R' U R U2 R'|
-|L|![](/images/bgm/bgm_OLL_stage_2_L.png)|F R' F' r U R U' r'|
-|Pi|![](/images/bgm/bgm_OLL_stage_2_Pi.png)|R U2 R2 U' R2 U' R2 U2 R|
-|Sune|![](/images/bgm/bgm_OLL_stage_2_sune.png)|R U R' U R U2 R'|
-|T|![](/images/bgm/bgm_OLL_stage_2_T.png)|r U R' U' r' F R F'|
-|U|![](/images/bgm/bgm_OLL_stage_2_U.png)|R2 D R' U2 R D' R' U2 R'|
+|Antisune|![](/images/bcfop/bcfop_OLL_stage_2_antisune.png)|R U2 R' U' R U' R'|
+|H|![](/images/bcfop/bcfop_OLL_stage_2_H.png)|R U R' U R U' R' U R U2 R'|
+|L|![](/images/bcfop/bcfop_OLL_stage_2_L.png)|F R' F' r U R U' r'|
+|Pi|![](/images/bcfop/bcfop_OLL_stage_2_Pi.png)|R U2 R2 U' R2 U' R2 U2 R|
+|Sune|![](/images/bcfop/bcfop_OLL_stage_2_sune.png)|R U R' U R U2 R'|
+|T|![](/images/bcfop/bcfop_OLL_stage_2_T.png)|r U R' U' r' F R F'|
+|U|![](/images/bcfop/bcfop_OLL_stage_2_U.png)|R2 D R' U2 R D' R' U2 R'|
