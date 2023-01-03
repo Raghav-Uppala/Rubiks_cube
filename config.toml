@@ -47,6 +47,6 @@ home = [ "HTML", "RSS", "JSON"]
 
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> <label>Credits</label>"
-url = "/credits"
+name = "<i class='fa fa-comment'></i> <label>feedback</label>"
+url = "https://forms.gle/UvzywBJnGtDqmANTA"
 weight = 30
